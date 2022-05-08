@@ -1,2 +1,2 @@
 # Votingsystem
-online voting system is based on jsp,servlet,html,css
+online voting system based on jsp,servlet,html,css,mysql
